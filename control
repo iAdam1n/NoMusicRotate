@@ -1,0 +1,10 @@
+Package: com.iadam1n.nomusicrotate
+Name: NoMusicRotate
+Pre-Depends: firmware (>=7.0)
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable rotation in Music app.
+Maintainer: iAdam1n
+Author: iAdam1n
+Section: Tweaks
